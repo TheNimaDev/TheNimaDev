@@ -14,7 +14,7 @@
 - 🎓 Student Majoring In **Computer Software** 
 - 💬 Ask Me About **JavaScript Nodejs Express**
 - 💻 Deeply Interested In Build **Website And Bot**
-- ⚡ Fun Fact My Best Friends Are My **LapTop And Musics**
+- ⚡ My Best Friends Are My **LapTop And Musics**
 
 <br />
 
