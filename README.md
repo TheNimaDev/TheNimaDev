@@ -1,31 +1,84 @@
-<h2>Hi There! I`m Nima :wave:</h2>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"  />
-<h3>👨‍💻&nbsp;About Me</h3>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
-- 🎓&nbsp;High School Student Majoring In Computer Science
-- ⚡&nbsp;Node.js And Backend Enthusiast
-- 🤖 Building Telegram Bots  
-- 🌱&nbsp;Always learning, Building, And Sharing
+<hr />
 
-### 🚀&nbsp;Skills
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/html5-colored.svg" width="36" height="36" alt="HTML" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
-    <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/nodejs-icon.svg" width="36" height="36" alt="Nodejs" /></a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/expressjs-icon.svg" width="36" height="36" alt="Express" /></a>
-    <a href="https://www.npmjs.com/package/telegraf" target="_blank" rel="noreferrer"><img src="https://github.com/TheNimaDev/TheNimaDev/blob/main/SVG/telegraf.svg" width="36" height="36" alt="telegraf" /></a>
-    <a href="https://www.mongodb.com/docs/manual/core/document/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/mongodb-colored.svg" width="36" height="36" alt="Mongodb" /></a>
-    <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/mysql-colored.svg" width="36" height="36" alt="Mysql" /></a>
-    <a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/redis-icon.svg" width="36" height="36" alt="Redis" /></a>
-    <a href="https://git-scm.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://docs.github.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/github-tile.svg" width="36" height="36" alt="GitHub" /></a>
-    <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/6e4d18a934ea08bbcc4f424fd24e81663551031f/SVG/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Nima</h1>
+<h3 align="center">A passionate back-end developer from Iran</h3>
+<br />
 
-### 📱&nbsp;Social
-<p>
-    <a href="https://t.me/byNi3a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/30663c64208953dee060877247fc08f70f2525d3/SVG/telegram-tile.svg" width="36" height="36" alt="Telegram" /></a>
-    <a href="https://github.com/TheNimaDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheNimaDev/TheNimaDev/30663c64208953dee060877247fc08f70f2525d3/SVG/github-icon.svg" width="36" height="36" alt="GitHub" /></a>
-</p>
+<img align = "right" alt="showme" width= "500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+<h3 align="left">🧠 About Me</h3>
+
+- 🎩 I’m Currently Learning **CEH**
+- 🎓 Student Majoring In **Computer Software** 
+- 💬 Ask Me About **JavaScript Nodejs Express**
+- 💻 Deeply Interested In Build **Website And Bot**
+- ⚡ Fun Fact My Best Friends Are My **LapTop And Musics**
+
+<br />
+
+<div align="left">
+  <a href="https://t.me/byNi3a" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/1nim1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/TheNimaDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23323330?style=for-the-badge&logo=github&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<!-- <hr />  -->
+<br />
+
+## 🛠️ Technologies I Use
+
+<div align="center">
+    <p>
+        <strong>Programming language and framework</strong>
+    </p>
+</div>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,expressjs&perline=3)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+    <p>
+        <strong>DataBases & ORM</strong>
+    </p>
+</div>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sequelize,redis&perline=4)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+    <p>
+        <strong>DevOps & Core Tools</strong>
+    </p>
+</div>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux&perline=4)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+    <p>
+        <strong>Other Tools</strong>
+    </p>
+</div>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=postman,npm,pug,jest,vscode,ps,pr,ae&perline=4)](https://skillicons.dev)
+
+</div>
