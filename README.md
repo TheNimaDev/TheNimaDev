@@ -73,12 +73,25 @@
 
 <div align="center">
     <p>
+        <strong>Testing</strong>
+    </p>
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" style="padding:5px; background:#ddd; border-radius:12px" alt="Jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="45" style="padding:5px; background:#ddd; border-radius:12px" alt="Mocha logo" />
+  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true" height="45" style="padding:5px; background:#ddd; border-radius:12px;" alt="Chai logo" />
+</div>
+
+<br />
+<div align="center">
+    <p>
         <strong>Other Tools</strong>
     </p>
 </div>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=postman,npm,pug,jest,vscode,ps,pr,ae&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,npm,pug,vscode&perline=4)](https://skillicons.dev)
 
 </div>
