@@ -19,11 +19,8 @@
 <br />
 
 <div align="left">
-  <a href="https://t.me/byNi3a" target="_blank">
+  <a href="https://t.me/TheNimaDev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.instagram.com/1nim1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/TheNimaDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23323330?style=for-the-badge&logo=github&logoColor=white" alt="Instagram" />
