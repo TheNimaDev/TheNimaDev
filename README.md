@@ -10,7 +10,7 @@
 
 <h3 align="left">🧠 About Me</h3>
 
-- 🎩 I’m Currently Learning **CEH**
+- 🎩 I’m Currently Learning **NEST**
 - 🎓 Student Majoring In **Computer Software** 
 - 💬 Ask Me About **JavaScript Nodejs Express**
 - 💻 Deeply Interested In Build **Website And Bot**
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sequelize,redis&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sequelize,redis,postgresql&perline=5)](https://skillicons.dev)
 
 </div>
 
