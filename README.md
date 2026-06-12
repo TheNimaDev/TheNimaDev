@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,expressjs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,expressjs,nestjs&perline=4)](https://skillicons.dev)
 
 </div>
 
